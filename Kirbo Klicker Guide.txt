@@ -1,0 +1,22 @@
+GUIDE TO KIRBO KLICKER
+
+Basics to know:
+
+To save progress, File --> Save to your computer
+
+To load progress, File --> Load from your computer
+
+If upgrades or items are not purchasing in full-screen mode, click to the right of the game screen. This is not a bug with
+my game, it is a Scratch glitch
+
+1. Controls
+
+-1: Opens the first upgrade menu
+
+-down arrow: Closes the firsts upgrade menu
+
+-U: Opens item upgrade menu
+
+-N: Closes item upgrade menu
+
+MORE TO COME
